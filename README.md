@@ -8,8 +8,8 @@ My CTF writeup collection for Foresty's Hacker Class.
 
 | Challenge | Writeup |
 | --- | --- |
-| Challenge 1 | [link](/week1/1/) |
-| Challenge 2 | [link](/week1/2/) |
-| Challenge 3 | [link](/week1/3/) |
-| Challenge 4 | [link](/week1/4/) |
-| Challenge 5 | [link](/week1/5/) |
+| Fortune Cookies | [link](/week1/1/) |
+| Mongkey | [link](/week1/2/) |
+| ezqlite | [link](/week1/3/) |
+| figl33t | [link](/week1/4/) |
+| Haiku | [link](/week1/5/) |
