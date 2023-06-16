@@ -13,3 +13,13 @@ My CTF writeup collection for Foresty's Hacker Class.
 | ezqlite | [link](/week1/3/) |
 | figl33t | [link](/week1/4/) |
 | Haiku | [link](/week1/5/) |
+
+### Week 2
+
+| Category | Challenge |
+| --- | --- |
+| Cryptography | [Vigenere] |
+| Cryptography | [Emoji] |
+| Cryptography | [Xorrr] |
+| Cryptography | [RSA] |
+| Cryptography | [OFB] |
