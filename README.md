@@ -18,8 +18,8 @@ My CTF writeup collection for Foresty's Hacker Class.
 
 | Category | Challenge |
 | --- | --- |
-| Cryptography | [Vigenere] |
+| Cryptography | [Vigenere](/week2/vigenere/) |
 | Cryptography | [Emoji] |
 | Cryptography | [Xorrr] |
-| Cryptography | [RSA] |
+| Cryptography | [RSA](week2/RSA/) |
 | Cryptography | [OFB] |
