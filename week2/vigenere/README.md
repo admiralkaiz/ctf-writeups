@@ -14,6 +14,9 @@ As the name suggest, kita gunakan metode decipher untuk Vigenere cipher. Ada ban
 
 Masukkan Encrypted flag ke dalam text box Vigenere ciphertext, dan pada opsi "Knowing the Key/Password", masukkan string "FORESTYHC" (tanpa tanda petik).
 
+![solved](images/vigenere-solve.png)
 
-
-Flag: ForestyFO{3l_l1h3ckdu_mj1c3w_d1ud_d0x35ep_d3p_c15qqz}
+Flag: 
+```
+ForestyFO{3l_l1h3ckdu_mj1c3w_d1ud_d0x35ep_d3p_c15qqz}
+```
