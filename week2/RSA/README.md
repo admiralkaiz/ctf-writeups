@@ -16,6 +16,9 @@ Untuk cara cepatnya, bisa langsung menggunakan decipher online yang gratis, sepe
 
 Tinggal masukkan saja nilai P, Q, N, E, dan C ke dalam field yang sesuai.
 
+![RSA easy](images/screenshoot-rsa-solved.png)
 
-
-Flag: ForestyHC{knowing_basic_of_RSA_calculation_1af53a}
+Flag: 
+```
+ForestyHC{knowing_basic_of_RSA_calculation_1af53a}
+```
