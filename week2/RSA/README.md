@@ -4,7 +4,7 @@
 
 Diberikan clue berupa file text `output.txt`
 
-
+![cipher](images/screenshoot-rsa-cipher.png)
 
 Dari file tersebut, dapat diketahui bahwa flag disembunyikan dalam RSA Cipher.
 
