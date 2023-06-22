@@ -8,4 +8,12 @@
 
 ## About this Challenge
 
-As the name suggest, kita gunakan metode decipher untuk Vigenere cipher. Ada banyak decipher online gratis untuk Vigenere cipher, salah satunya http://decode.fr
+As the name suggest, kita gunakan metode decipher untuk Vigenere cipher. Ada banyak decipher online gratis untuk Vigenere cipher, salah satunya https://www.dcode.fr/vigenere-cipher.
+
+
+
+Masukkan Encrypted flag ke dalam text box Vigenere ciphertext, dan pada opsi "Knowing the Key/Password", masukkan string "FORESTYHC" (tanpa tanda petik).
+
+
+
+Flag: ForestyFO{3l_l1h3ckdu_mj1c3w_d1ud_d0x35ep_d3p_c15qqz}
